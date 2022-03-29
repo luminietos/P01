@@ -1,4 +1,5 @@
 # Project 01 - To-Do List
+[Project's Github Link](https://luminietos.github.io/P01/)
 
 ## Description
 This is a simple online To-Do list I made as my first JavaScript project for my University's JavaScript course. Anyone who wishes to use it may do so.
