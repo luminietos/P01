@@ -1,4 +1,4 @@
-# Project 01 - To-Do List
+# JS Project 01 - To-Do List
 [Project's Github Link](https://luminietos.github.io/P01/) & [Project's Netlify Link](https://admirable-bavarois-7adc9c.netlify.app/)
 
 ## Description
