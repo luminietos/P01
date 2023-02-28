@@ -2,6 +2,7 @@
 
 ## Description
 This is a simple online To-Do list I made as my first JavaScript project for my University's introductory JS course, created in March 2022.
+
 You can find the website [here](https://luminietos.github.io/P01/) (GitHub) or [here](https://admirable-bavarois-7adc9c.netlify.app/) (Netlify).
 
 ## Step-by-step guide - *"How do I actually use this site?"*
