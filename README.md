@@ -14,7 +14,7 @@ Clicking the green checkmark button will mark the item you selected as completed
 The list itself adapts and grows as you add more items.
 
 ## Status
-This project is complete for the foreseeable future.
+The development of this project is complete for the foreseeable future.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
